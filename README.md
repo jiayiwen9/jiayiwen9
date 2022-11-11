@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jiayi Wen@jiayiwen1999
-- 👀 I’m interested in coding, java,python, math. 
-- 🌱 I’m currently learning data structure and algorithm. I am currently looking for intern/full-time opportunity for java developer.
+- 👀 I’m interested in java,python, math. 
 - 📫 Reach me at jiayiwen.99@gmail.com
 
 <!---
